@@ -1,0 +1,28 @@
+.SuggestedSection_container {
+    width: 325px;
+    height: 290px;
+    margin-top: 25px;
+}
+.SuggestedSection_header {
+    display: flex;
+    font-weight: bold;
+    color: #8e8e8e;
+}
+.SuggestedSection_body {
+    width: 290px;
+    margin-top: 10px;
+}
+.SuggestedSection_friends {
+    display: flex;
+    padding: 5px 0px;
+}
+.SuggestedSection_image {
+    max-width: 35px;
+    max-height:35px;
+
+}
+.SuggestedSection_username {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+}

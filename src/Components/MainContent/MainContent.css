@@ -1,0 +1,11 @@
+.MainContent_upload_container {
+    margin-top: 20px;
+    display: flex;
+}
+.MainContent_upload_text {
+    margin-top: 23px;
+}
+.MainContent_upload {
+    height: 70px;
+    width: 70px;
+}
