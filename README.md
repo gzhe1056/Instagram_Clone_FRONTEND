@@ -1,3 +1,7 @@
+Frontend portion of the Instagram clone project. It is 
+still in development.
+Backend portion: https://github.com/gzhe1056/Instagram_Clone_BACKEND
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
